@@ -4,9 +4,6 @@ changement 3
 changement 4
 changement 5
 changement 6
-<<<<<<< 471e1881792ed320432696965bc62024ab597ea6
 changement 7 teste branch
 changement 8 conflict
-=======
 changement 9 
->>>>>>> changement9
